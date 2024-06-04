@@ -1,2 +1,2 @@
-# 👋 Hi!
-I'm Tori, Newy local + 3D map afficionado. Here to make fun web maps!
+# 😸 Hi!
+I'm Tori, 3D map afficionado. Here to make fun web maps (in 2D and 3D)!
